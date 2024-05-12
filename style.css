@@ -83,7 +83,7 @@ nav{
     flex-direction: column;
     justify-content: space-between;
 }
-.blog-read button{
+.read button{
     background-color: var(--Soft-red);
     border: none;
     color: var(--Off-white);
@@ -94,7 +94,7 @@ nav{
     letter-spacing: 5px;
     font-weight: 700;
 }
-.blog-read button:hover{
+.read button:hover{
     background-color: var(--Very-dark-blue);
 }
 .new{
