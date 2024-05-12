@@ -198,7 +198,7 @@ nav{
 .menu{
     display: flex;
 }
-.main-container{
+.container2{
     padding-inline: 1rem;
     display: flex;
     flex-direction: column;
@@ -208,16 +208,16 @@ nav{
     display: flex;
     flex-direction: column;
 }
-.blog-info{
+.info{
     flex-direction: column;
     gap: 2rem;
     width: 100%;
 }
-.blog-read{
+.read{
     gap: 2rem;
     width: 100%;
 }
-.blog-title,.blog-content{
+.title,.blog-content{
     width: 100%;
 }
 }
